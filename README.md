@@ -1,2 +1,2 @@
-# thinkst-tech-eval-frontend
-thinkst-tech-eval-frontend
+# Placeholder site for future thehooperman.com site
+Placeholder site for future thehooperman.com site

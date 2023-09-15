@@ -4,7 +4,7 @@
   ],
   "routes": [
     { "src": "/", "dest": "/" },
-    { "src": "/about", "dest": "/" },
-    { "src": "/dashboard", "dest": "/" }
+    { "src": "/", "dest": "/about" },
+    { "src": "/", "dest": "/dashboard" }
   ]
 }
